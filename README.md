@@ -26,3 +26,15 @@ Country
 Discipline
 
 Preferred programming language
+
+**Actions Taken**
+
+This project demonstrates basic list and dictionary operations:
+
+1. Creating individual intern dictionaries
+
+2. Combining them into a list
+   
+3. Printing the complete database
+
+
