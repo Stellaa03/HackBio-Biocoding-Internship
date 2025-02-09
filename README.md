@@ -40,9 +40,8 @@ This project demonstrates basic list and dictionary operations:
 3. Open a terminal or command prompt in the project directory.
 4. Run the script using:
 
-   ```sh
-   python Stage_0_solution.py
-   ```
+Stage_0_solution.py
+
 
 5. The formatted intern details will be displayed in the terminal.
 
